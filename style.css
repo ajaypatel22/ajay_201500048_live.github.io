@@ -24,11 +24,6 @@ body{
     text-decoration: dotted;
     font-weight:200;
 }
-.navbar li :hover{
-    color:rgb(16, 37, 79);
-    text-decoration: underline;
-    font-weight:200;
-}
 .content{
     width:100%;
     position: absolute;
